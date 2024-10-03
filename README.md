@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bohanbrancis
-- 👀 I’m interested in Sports Analytics, Data Science, etc.
-- 🌱 I’m currently learning Machine Learning in the Finance world
+- 👀 I’m interested in Sports Analytics, Data Science, Quantitative Finance, amongst other things
+- 🌱 I’m currently learning Machine Learning in the Finance world as a Data Science and Fintech student at Northeastern University in Boston
 - 📫 How to reach me: my email rohan.c.francis@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I almost got kidnapped while on vacation in Italy
